@@ -33,3 +33,6 @@
 
 # Data files
 *.txt
+
+# build directory
+build
